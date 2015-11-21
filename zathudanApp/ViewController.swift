@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var message: UILabel!
     @IBOutlet weak var inputText: UITextField!
     
-    let requestUrl = "https://api.apigw.smt.docomo.ne.jp/dialogue/v1/dialogue?xxxxxxxxxxxxxxxxxxxxxxxxx"
+    let requestUrl = "https://api.apigw.smt.docomo.ne.jp/dialogue/v1/dialogue?xxxxxxxxxxxxxxxxxxxxxx"
     
     /*
     * メッセージを表示する処理
