@@ -619,6 +619,7 @@
 				82329E501BFF8AE80084DADB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		82329E511BFF8AE80084DADB /* Build configuration list for PBXNativeTarget "zathudanAppTests" */ = {
 			isa = XCConfigurationList;
@@ -627,6 +628,7 @@
 				82329E531BFF8AE80084DADB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		82329E541BFF8AE80084DADB /* Build configuration list for PBXNativeTarget "zathudanAppUITests" */ = {
 			isa = XCConfigurationList;
@@ -635,6 +637,7 @@
 				82329E561BFF8AE80084DADB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
